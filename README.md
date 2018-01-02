@@ -13,4 +13,10 @@ Common usecase is to implement a word Dictionary.
 
 So many different ways to implement a trie though I've chosen the way that I understood 
 from [Tushar Roy's youtube video](https://www.youtube.com/watch?v=AXjmTQ8LEoI). 
-This seemed like easiest to understand and implement;
+This seemed to me as the easiest to understand and implement.
+
+The Trie project has the implementation of Insert, Delete and Search. Insert and Search both have their Iterative and Recursive implementations separately. 
+The Trie class can be initialized with either Iterative/Recursive implementations. 
+
+The TrieTester project has some basic tests done on the Trie class. 
+
